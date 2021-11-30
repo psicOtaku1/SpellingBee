@@ -3,7 +3,6 @@ from tkinter import *
 from tkinter.font import Font
 from PIL import ImageTk, Image
 import random
-import time
 
 team1=2
 team2=2
